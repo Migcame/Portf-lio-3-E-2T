@@ -1,0 +1,2 @@
+# Portf-lio-3-E-2T
+Projeto desenvolvido no Colégio Estadual Dr. Gastão Vidigal, na turma 3°E, com o objetivo de explicar a usabilidade de cada código do HTML, CSS,e JS. As imagens, vídeos e áudios foram tirados do cu
